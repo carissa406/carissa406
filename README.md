@@ -5,6 +5,4 @@
 - 👯 I’m looking to collaborate on language technology projects
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/hickscarissa/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy doing crafts, gaming online, and Phở 🍜 
-
-
+- ⚡ Fun facts: I enjoy doing crafts, writing to my penpals, and gaming online!
