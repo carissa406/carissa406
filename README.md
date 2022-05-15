@@ -1,6 +1,6 @@
 ### Hi there, I'm Carissa 👋
 
-- 🔭 I’m currently working on becoming a data analyst
-- 🌱 I’m currently learning Java, and natural language processing tools
-- 👯 I’m looking to collaborate on language technology projects
+- 🔭 Currently learning how to be a better data analyst
+- 🌱 Java, R, SAS, Python, Apache Hadoop, Hive, Spark, Pig, Hbase
+- 👯 Always looking for more projects to work on
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/hickscarissa/)
