@@ -1,8 +1,14 @@
-### Hi there, I'm Carissa 👋
+Welcome!
 
-- 📜 R, Python, Java, SQL, SAS, Excel
-- 🌱 tensorflow, keras, caret, pandas, numpy, matplotlib
-- 🔧 Machine learning, deep learning, natural language processing, computer vision, data visualization
+My name is Carissa Hicks:  I recently graduated in December 2022 with my Master of Science degree in Data Analytics from the University of Illinois. I completed my Bachelor of Arts degree in Linguistics in 2017 from Western Washington University.
+
+Knowledge: Data exploration, data cleaning and preprocessing, visualization, machine learning, deep learning, statistical methodologies, predictive modeling, and natural language processing
+Data Viz: Tableau, PowerBI, Google Data Studio
+Technologies: R, Python, Java, SQL, Excel, SAS, Spark
+Packages: keras, caret, ggplot, numpy, tensorflow, matplotlib
+
+Link to Download My Resume: [HERE](https://drive.google.com/file/d/1HU_35Uv9WhVB5rk5XxK8nbc34QiIPfws/view?usp=sharing)
+You can contact me at hicks.carissa@gmail.com! Or add me on LinkedIn!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/aashir-khan-bb8315139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
