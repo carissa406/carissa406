@@ -7,7 +7,7 @@ Data Viz: Tableau, PowerBI, Google Data Studio
 Technologies: R, Python, Java, SQL, Excel, SAS, Spark
 Packages: keras, caret, ggplot, numpy, tensorflow, matplotlib
 
-[![My Skills](https://skillicons.dev/icons?i=r, py, java, tensorflow, eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
 You can contact me at hicks.carissa@gmail.com! Or add me on LinkedIn!
 
