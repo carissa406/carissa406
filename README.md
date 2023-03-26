@@ -9,7 +9,7 @@ Packages: keras, caret, ggplot, numpy, tensorflow, matplotlib
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
-You can contact me at hicks.carissa@gmail.com! Or add me on LinkedIn!
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carissa406)](https://github.com/anuraghazra/github-readme-stats)
