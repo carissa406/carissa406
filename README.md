@@ -7,8 +7,10 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 [![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="hicks.carissa@gmail.com" target="blank"><img align="center" src="https://www.marionmethodistchurch.com/hp_wordpress/wp-content/uploads/2016/07/emailsymbol-300x298.png" alt="email" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
 
+hicks.carissa@gmail.com
+  
 ## Check out some of my favorite projects!
 
 1. [Predictive Modeling]()
