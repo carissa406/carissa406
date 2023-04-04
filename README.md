@@ -20,6 +20,6 @@ hicks.carissa@gmail.com
 5. [Recommendation Engine]() - TBD
 6. [Data Visualization](https://github.com/carissa406/mke-property-sales) - Milwaukee property sales dashboard
 7. [Clustering](https://github.com/carissa406/data-mining-533/blob/main/ex5-2test.txt) - Uber pickup data by 8 clusters grouped by date and time
-8. [Association Rules]()
-9. [Data Cleaning]()
-10. [Exploratory Data Analysis]()
+8. [Association Rules](https://github.com/carissa406/data-mining-533/tree/main/FrequentPatternMining) - market basket analysis of grocery store sales
+9. [Data Cleaning](https://github.com/carissa406/machine-learning-532/blob/main/Assignment%205.Rmd) - data cleaning of housing data and predictive analysis of sale price
+10. [Exploratory Data Analysis](https://github.com/carissa406/machine-learning-532/blob/main/hw1.Rmd) - data exploration of vegas hotels, heart disease, and california housing
