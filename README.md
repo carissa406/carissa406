@@ -1,4 +1,4 @@
-Welcome!
+# Welcome!
 
 My name is Carissa Hicks:  I recently graduated in December 2022 with my Master of Science degree in Data Analytics from the University of Illinois. I completed my Bachelor of Arts degree in Linguistics in 2017 from Western Washington University.
 
@@ -6,10 +6,10 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
+### Connect with me:
+<a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="hicks.carissa@gmail.com" target="blank"><img align="center" src="https://www.marionmethodistchurch.com/hp_wordpress/wp-content/uploads/2016/07/emailsymbol-300x298.png" alt="email" height="40" width="40" /></a>
 
-Check out some of my favorite projects!
+## Check out some of my favorite projects!
 
 1. [Predictive Modeling]()
 2. [Time Series Analysis]()
