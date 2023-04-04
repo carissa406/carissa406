@@ -8,3 +8,16 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashir-khan-bb8315139" height="30" width="40" /></a>
+
+Check out some of my favorite projects!
+
+1. [Predictive Modeling]()
+2. [Time Series Analysis]()
+3. [Natural Language Processing]()
+4. [Image Classification]()
+5. [Recommendation Engine]()
+6. [Data Visualization]()
+7. [Clustering]()
+8. [Association Rules]()
+9. [Data Cleaning]()
+10. [Exploratory Data Analysis]()
