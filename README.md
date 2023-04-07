@@ -19,7 +19,7 @@ hicks.carissa@gmail.com
 2. [Time Series Analysis](https://github.com/carissa406/deep-learning-535/blob/main/CarissaHicks_Assignment4.ipynb) - Time series analysis of COVID-19 deaths and predicting deaths using RNN
 3. [Natural Language Processing](https://github.com/carissa406/good-feet-reviews) - building a word cloud andlassification model that classifies reviews as positive or negative
 4. [Image Classification](https://colab.research.google.com/drive/1AGp7TXniY1HAczqMBTsZQHbt1qxG0BES) - **external link to Colab** art classification model using CNN that identifies the artwork by the artist
-5. [Recommendation Engine]() - TBD
+5. [Recommendation Engine]() - * currently in the works!*
 6. [Data Visualization](https://github.com/carissa406/mke-property-sales) - Milwaukee property sales dashboard
 7. [Clustering](https://github.com/carissa406/data-mining-533/blob/main/ex5-2test.txt) - Uber pickup data by 8 clusters grouped by date and time
 8. [Association Rules](https://github.com/carissa406/data-mining-533/tree/main/FrequentPatternMining) - market basket analysis of grocery store sales
