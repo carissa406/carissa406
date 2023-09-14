@@ -1,6 +1,6 @@
 # Welcome!
-Carissa Hicks
-Data scientist
+###Carissa Hicks
+###Data scientist
 Interests: Computer vision, deep learning, natural language processing
 Knowledge: Data exploration, data cleaning and preprocessing, visualization, machine learning, deep learning, statistical methodologies, predictive modeling, and natural language processing
 
