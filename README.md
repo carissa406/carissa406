@@ -6,12 +6,7 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-
-hicks.carissa@gmail.com
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66c8c42992ec1a8a73f8dc23?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c8c42992ec1a8a73f8dc23?variant=dark&roadmaps=data-analyst" alt="roadmap.sh"/></a>
 
 ## Check out some of my favorite projects!
 
