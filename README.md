@@ -10,7 +10,9 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 <a href="https://www.linkedin.com/in/hickscarissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
 
 hicks.carissa@gmail.com
-  
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66c8c42992ec1a8a73f8dc23?variant=dark)](https://roadmap.sh)
+
 ## Check out some of my favorite projects!
 
 1. [Predictive Modeling](https://github.com/carissa406/customer-churn)   - predicting customer churn for a bank using logistic regression and decision trees
