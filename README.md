@@ -6,8 +6,6 @@ Knowledge: Data exploration, data cleaning and preprocessing, visualization, mac
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,java,tensorflow,eclipse)](https://skillicons.dev)
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c8c42992ec1a8a73f8dc23?variant=dark&roadmaps=data-analyst" alt="roadmap.sh"/></a>
-
 ## Check out some of my favorite projects!
 
 1. [Predictive Modeling](https://github.com/carissa406/customer-churn)   - predicting customer churn for a bank using logistic regression and decision trees
